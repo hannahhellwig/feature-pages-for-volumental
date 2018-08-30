@@ -52,7 +52,7 @@ The site should include the following:
 All pages should be presented on the demo on September 14 for Volumental themselves!
 
 ####  Volumental’s customers
-Each group will be working on 1 customer page. You can find relevant information and videos provided [here](https://drive.google.com/drive/folders/1gDkdu1Y8RPSK8QAEXZzU1kGnKQ-3aZ3k?usp=sharing) , however if you would like to add anything extra that you find online you are free to do that too. 
+Each group will be working on 1 customer page. You can find relevant information and videos provided [here](https://drive.google.com/drive/folders/1gDkdu1Y8RPSK8QAEXZzU1kGnKQ-3aZ3k?usp=sharing), however if you would like to add anything extra that you find online you are free to do that too. 
 
 Group 1: Fleet fleet 
 
