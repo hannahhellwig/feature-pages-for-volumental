@@ -36,6 +36,7 @@ Group 1: Fleet fleet
 
 #### Volumental Design guidelines
 
+https://imgur.com/a/s2aNSlB
 
 Potential assets needed: 
 
@@ -57,7 +58,7 @@ You'll find an index.html and style.css file in the code folder of this reposito
 
 ---
 
-### Teamwork
+###  Teamwork
 
 We have invited Charlotte Andersson as a guest lecturer in agile and scrum. She will give you tools in how you best divide your work and work together in your teams. One of the challenges in this project is to learn how to work as a team. As a web developer this is something you do on a daily basis.
 
@@ -73,7 +74,7 @@ When you do encounter a conflict, don't panic! Follow the [steps here](https://g
 
 ---
 
-### BOOM: Success!
+### 💥 BOOM: Success!
 
 After completing this project, you should be comfortable with working as a team in a web project, know how to build a responsive webpage from scratch, build modules you can typically find on any webpage, like responsive menu, grid sections, hero images and footer.
 
