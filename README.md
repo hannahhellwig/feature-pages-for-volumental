@@ -18,34 +18,31 @@ The site should include the following:
 
 - Short brief about our customer and a link to their website
 
-
 - Relevant pictures and videos (if available) 
 
-
-- The page should follow overall brand guidelines and feel of Volumental. 
-
+- The page should follow overall brand guidelines and feel of Volumental
 
 - Volumentals responsive header
-  The menu should work on all screen sizes. 
-  
-  It should have a logotype and navigational links. 
 
-  Hero background video.
+  The menu should work on all screen sizes
   
-  A large cover video in the hero section adjusted for different screen formats. 
+  It should have a logotype and navigational links
+
+- Hero background video
   
-  Three selling points.
+  A large cover video in the hero section adjusted for different screen formats
   
-  Responsive grid with three selling points containing icons and copy for each of them.
+- Three selling points
   
+  Responsive grid with three selling points containing icons and copy for each of them
   
 - Feature section 
   
-  List your top features with an image, text and button for each of them.
+  List your top features with an image, text and button for each of them
 
-  Footer.
+- Footer
   
-  A navigational footer with social media links.
+  A navigational footer with social media links
 
 
 
