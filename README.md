@@ -35,9 +35,13 @@ Each group will be working on 1 customer page. You'll find **all relevant assets
 ![Colours](https://i.imgur.com/1Ag3HwU.png)
 
 #### Color codes: 	
+
 Dark blue #1C244B  
+
 Turquoise accent #1CB5D1 
+
 Powder pink #FFD5CD 
+
 Dark pink #FF858C
 
 #### Font 
