@@ -24,7 +24,7 @@ The site should include the following:
 * Feature section. *List your top features with an image, text and button for each of them*
 * Footer. *A navigational footer with social media links*
 
-All pages should be presented on the demo on September 14 for Volumental themselves!
+All pages should be presented on the demo on September 14 for the team at Volumental. 
 
 ####  Volumental’s customers
 Each group will be working on 1 customer page. You'll find **all relevant assets** for your customer in the repository. 
@@ -32,7 +32,7 @@ Each group will be working on 1 customer page. You'll find **all relevant assets
 #### Volumental Design guidelines
 
 ##### Colours:
-![Colours](https://imgur.com/a/s2aNSlB)
+![Colours](//imgur.com/s2aNSlB)
 
 ##### Color codes: 	
 Dark blue #1C244B  
