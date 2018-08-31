@@ -8,7 +8,7 @@ Volumental’s mission is to transform the footwear industry, enabling a complet
 
 Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauer and Ecco, the Volumental scanning solution is used across the globe.
 
-
+### Your task
 Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers that fit in to the overall webpage. You group will work with **Fleet Feet.** 
 
 The site should include the following: 
