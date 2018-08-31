@@ -12,13 +12,12 @@ Developed in Stockholm, Sweden, the Volumental solution drives sales, increases 
 
 ###  ✅ How to complete this project
 
-Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers. 
+Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers. You group will work with **Fleet Feet.** 
 
 The site should include the following: 
 
-- Short brief about our customer and a link to their website
-
-- Relevant pictures and videos (if available) 
+* Short brief about our customer and a link to their website
+* Relevant pictures and videos (if available) 
 
 - The page should follow overall brand guidelines and feel of Volumental
 
