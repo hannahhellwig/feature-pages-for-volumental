@@ -9,71 +9,44 @@ Volumental’s mission is to transform the footwear industry, enabling a complet
 Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauer and Ecco, the Volumental scanning solution is used across the globe.
 
 
-
 ###  ✅ How to complete this project
 
-Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers. You group will work with **Fleet Feet.** 
+Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers that fit in to the overall webpage. You group will work with **Fleet Feet.** 
 
 The site should include the following: 
 
 * Short brief about our customer and a link to their website
 * Relevant pictures and videos (if available) 
-
-- The page should follow overall brand guidelines and feel of Volumental
-
-- Volumentals responsive header
-
-  The menu should work on all screen sizes
-  
-  It should have a logotype and navigational links
-
-- Hero background video
-  
-  A large cover video in the hero section adjusted for different screen formats
-  
-- Three selling points
-  
-  Responsive grid with three selling points containing icons and copy for each of them
-  
-- Feature section 
-  
-  List your top features with an image, text and button for each of them
-
-- Footer
-  
-  A navigational footer with social media links
-
-
+* The page should follow overall brand guidelines and feel of Volumental
+* Volumentals responsive header. *The menu should work on all screen sizes. It should have a logotype and navigational links*
+* Hero background video. *A large cover video in the hero section adjusted for different screen formats*
+* Three selling points. *Responsive grid with three selling points containing icons and copy for each of them*
+* Feature section. *List your top features with an image, text and button for each of them*
+* Footer. *A navigational footer with social media links*
 
 All pages should be presented on the demo on September 14 for Volumental themselves!
 
 ####  Volumental’s customers
-Each group will be working on 1 customer page. You can find relevant information and videos provided [here](https://drive.google.com/drive/folders/1gDkdu1Y8RPSK8QAEXZzU1kGnKQ-3aZ3k?usp=sharing), however if you would like to add anything extra that you find online you are free to do that too. 
-
-Group 1: Fleet fleet 
-
+Each group will be working on 1 customer page. You'll find **all relevant assets** for your customer in the repository. 
 
 #### Volumental Design guidelines
 
-Colours: 
-https://imgur.com/a/s2aNSlB
+##### Colours:
+![Colours](https://imgur.com/a/s2aNSlB)
 
-Potential assets needed: 
-
-Color codes: 	Dark blue #1C244B  
-
+##### Color codes: 	
+Dark blue #1C244B  
 Turquoise accent #1CB5D1 
-
 Powder pink #FFD5CD 
-
 Dark pink #FF858C
 
-Logo: https://goo.gl/fSnSJQ  
+##### Logotype
+![Logotype](https://goo.gl/fSnSJQ) 
 
-Font: Lato
+##### Font 
+Lato
 
 Have a quick look at the Volumental website in the inspector tool before you start to better inherit design elements to your design. How much margin do they have on the page? What are their headings? Font sizes? And how does this change on mobile and tablet? 
-
 
 ---
 
