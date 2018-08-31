@@ -32,7 +32,7 @@ Each group will be working on 1 customer page. You'll find **all relevant assets
 #### Volumental Design guidelines
 
 ##### Colours:
-![Colours](//imgur.com/s2aNSlB)
+![Colours](https://i.imgur.com/1Ag3HwU.png)
 
 ##### Color codes: 	
 Dark blue #1C244B  
