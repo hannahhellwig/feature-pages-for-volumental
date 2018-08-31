@@ -40,9 +40,6 @@ Turquoise accent #1CB5D1
 Powder pink #FFD5CD 
 Dark pink #FF858C
 
-##### Logotype
-![Logotype](https://goo.gl/fSnSJQ) 
-
 ##### Font 
 Lato
 
