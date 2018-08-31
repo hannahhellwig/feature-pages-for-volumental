@@ -1,22 +1,24 @@
 # Sprint 1: Team Project Group 1
 
-## Team project: Build a client page for Volumental
+## Team project: Create Feature Pages for Volumental's Clients
 
 For your first ever sprint project you will be challenged by the fast growing start-up Volumental to improve an important part of their webpage – their client pages. 
 
 Volumental’s mission is to transform the footwear industry, enabling a completely personalised experience in fitting and finding the perfect footwear. Volumental combines the world's fastest high accuracy 3D foot scanning system for retail, with an advanced AI driven 'Fit Engine' that generates highly personalised footwear recommendations.
 
-Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauer and Ecco, the Volumental scanning solution is used across the globe.
+Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauerhttps://www.volumental.com/partners/ and Ecco, the Volumental scanning solution is used across the globe.
 
 ### Your task
-Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers that fit in to the overall webpage. You group will work with **Fleet Feet.** 
+Currently their customers are listed on a [single page website.](https://www.volumental.com/partners/) Once the customer portfolio grows they would like to create feature pages for their biggest clients. Your assignment will be to create a stand alone page for the Volumental website dedicated to one of their customers. 
 
-The site should include the following: 
+Your group will work with **Fleet Feet.** 
 
-* Short brief about our customer and a link to their website
+**The site should include the following:** 
+
+* Short brief about our customer and a link to their website. 
 * Relevant pictures and videos (if available) 
 * The page should follow overall brand guidelines and feel of Volumental
-* Volumentals responsive header. *The menu should work on all screen sizes. It should have a logotype and navigational links*
+* Volumentals existing responsive header. *The menu should work on all screen sizes. It should have a logotype and navigational links*
 * Hero background video. *A large cover video in the hero section adjusted for different screen formats*
 * Three selling points. *Responsive grid with three selling points containing icons and copy for each of them*
 * Feature section. *List your top features with an image, text and button for each of them*
