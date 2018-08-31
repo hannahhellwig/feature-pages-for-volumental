@@ -9,8 +9,6 @@ Volumental’s mission is to transform the footwear industry, enabling a complet
 Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauer and Ecco, the Volumental scanning solution is used across the globe.
 
 
-###  How to complete this project
-
 Currently our customers are listed on a single page website. Once our customer portfolio grows we would like to create a feature pages for our biggest clients. Your assignment will be to create a stand alone web page dedicated to one of our customers that fit in to the overall webpage. You group will work with **Fleet Feet.** 
 
 The site should include the following: 
@@ -25,6 +23,14 @@ The site should include the following:
 * Footer. *A navigational footer with social media links*
 
 All pages should be presented on the demo on September 14 for the team at Volumental. 
+
+---
+
+##  How to complete this project
+
+### Volumental's design guidelines
+
+The project should follow Volumental's design guidelines and look and feel like a part of their webpage. However, feel free to experiment and make the best possible page to show of their collaboration with your customer. 
 
 ### Volumental’s customers
 Each group will be working on 1 customer page. You'll find **all relevant assets** for your customer in the repository. 
@@ -48,8 +54,6 @@ Dark pink #FF858C
 Lato
 
 Have a quick look at the Volumental website in the inspector tool before you start to better inherit design elements to your design. How much margin do they have on the page? What are their headings? Font sizes? And how does this change on mobile and tablet? 
-
----
 
 ###  🤝 Teamwork
 
