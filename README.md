@@ -1,6 +1,6 @@
 # Sprint 1: Team Project Group 1 – Feet Fleet! 
 
-## Team project: Create Feature Pages for Volumental's Clients
+## Create Feature Pages for Volumental's Clients
 
 For your first ever sprint project you will be challenged by the fast growing start-up Volumental to improve an important part of their webpage – their client pages. 
 
