@@ -23,13 +23,13 @@ Components your one-pager should have:
 The menu should be Volumental's exisiting, try copy to your best ability. The menu should work on all screen sizes. 
 
 #### Hero background image
-A large top cover image or video in the hero section that work on all devices.
+A large top cover image or video in the hero section that works on all devices.
 
 #### Information section
-Short brief about the customer and link to their webpage. 
+A short brief about the customer and link to their webpage. 
 
 #### A grid
-Responsive grid with either images, text or both that shows their collaboration. 
+A Rresponsive grid with either images, text or both that shows their collaboration. 
 
 #### Footer
 A navigational footer with social media links.
@@ -59,8 +59,6 @@ Dark pink #FF858C
 #### Font 
 Lato
 
-Have a quick look at the Volumental website in the inspector tool before you start to better inherit design elements to your design. How much margin do they have on the page? What are their headings? Font sizes? And how does this change on mobile and tablet? 
-
 ###  🤝 Teamwork
 
 We have invited Charlotte Andersson as a guest lecturer in agile and scrum. She will give you tools in how you best divide your work and work together in your teams. One of the challenges in this project is to learn how to work as a team. As a web developer this is something you do on a daily basis.
@@ -71,7 +69,7 @@ We suggest trying "mob programming". Mob programming is where one person is in c
 
 ###  🖇 Git & GitHub
 
-Working as a team on GitHub takes some getting used to. If two members of your team edit code in the same file in the project and push the code to GitHub, there's a fair chance you'll run into a situation where your code conflicts. You'll have to solve the conflicts as a team and think of your teammates when committing code. **Committing small changes, very regularly makes it MUCH easier to handle conflicts**. Really - commit early and often.
+Working as a team on GitHub takes some getting used to. If two members of your team edit code in the same file in the project and push the code to GitHub, there's a fair chance you'll run into a situation where your code conflicts. You'll have to solve the conflicts as a team and think of your teammates when committing code. **Committing small changes, very regularly makes it MUCH easier to handle conflicts**. Really - commit and early and often and don't forget to push them to Github.
 
 When you do encounter a conflict, don't panic! Follow the [steps here](https://gist.github.com/ccannon94/a75f1f725d33a1834dd7f5feebbc7d4b) to resolve the conflict and then commit the fixed code.
 
