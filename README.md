@@ -1,4 +1,4 @@
-# Sprint 1: Team Project Group 1
+# Sprint 1: Team Project Group 1 – Feet Fleet! 
 
 ## Team project: Create Feature Pages for Volumental's Clients
 
@@ -6,29 +6,35 @@ For your first ever sprint project you will be challenged by the fast growing st
 
 Volumental’s mission is to transform the footwear industry, enabling a completely personalised experience in fitting and finding the perfect footwear. Volumental combines the world's fastest high accuracy 3D foot scanning system for retail, with an advanced AI driven 'Fit Engine' that generates highly personalised footwear recommendations.
 
-Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauerhttps://www.volumental.com/partners/ and Ecco, the Volumental scanning solution is used across the globe.
+Developed in Stockholm, Sweden, the Volumental solution drives sales, increases customer satisfaction and provides detailed data for research and development. Working with partners such as New Balance, Bauer and Ecco, the Volumental scanning solution is used across the globe.
 
 ### Your task
-Currently their customers are listed on a [single page website.](https://www.volumental.com/partners/) Once the customer portfolio grows they would like to create feature pages for their biggest clients. Your assignment will be to create a stand alone page for the Volumental website dedicated to one of their customers. 
+Currently their customers are listed on a [single page website.](https://www.volumental.com/partners/) Once the customer portfolio grows they would like to create separate feature pages for their biggest clients. Your assignment will be to create a stand alone page for the Volumental website dedicated to one of their customers. 
 
 Your group will work with **Fleet Feet.** 
 
-**The site should include the following:** 
-
-* Short brief about our customer and a link to their website. 
-* Relevant pictures and videos (if available) 
-* The page should follow overall brand guidelines and feel of Volumental
-* Volumentals existing responsive header. *The menu should work on all screen sizes. It should have a logotype and navigational links*
-* Hero background video. *A large cover video in the hero section adjusted for different screen formats*
-* Three selling points. *Responsive grid with three selling points containing icons and copy for each of them*
-* Feature section. *List your top features with an image, text and button for each of them*
-* Footer. *A navigational footer with social media links*
-
-All pages should be presented on the demo on September 14 for the team at Volumental. 
-
----
-
 ##  How to complete this project
+
+### The page
+
+Components your one-pager should have:
+
+#### Responsive header
+The menu should be Volumental's exisiting, try copy to your best ability. The menu should work on all screen sizes. 
+
+#### Hero background image
+A large top cover image or video in the hero section that work on all devices.
+
+#### Information section
+Short brief about the customer and link to their webpage. 
+
+#### A grid
+Responsive grid with either images, text or both that shows their collaboration. 
+
+#### Footer
+A navigational footer with social media links.
+
+### Git & GitHub
 
 ### Volumental's design guidelines
 
