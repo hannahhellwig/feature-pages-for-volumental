@@ -34,9 +34,7 @@ Responsive grid with either images, text or both that shows their collaboration.
 #### Footer
 A navigational footer with social media links.
 
-### Git & GitHub
-
-### Volumental's design guidelines
+### 🎨 Design guidelines
 
 The project should follow Volumental's design guidelines and look and feel like a part of their webpage. However, feel free to experiment and make the best possible page to show of their collaboration with your customer. 
 
