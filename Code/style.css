@@ -25,12 +25,13 @@ a {
 a:hover {
     color: black; }
 
-/* .logo img */
-/* { */
-   /* height: 45px; */
-  /* margin-top: 4px; */
-  /* margin-bottom: 4px; */
-/* } */
+.logo img
+{
+  display: block;
+  height: 45px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
 
 
 .header {
@@ -41,9 +42,13 @@ a:hover {
   background: white;
   padding: 11px 90px 11px;
   width: 100%;
-  z-index: 1000; }
+  z-index: 1000;
+  width:95%;
+  display: inline-block;
+}
 
 .headermenu {
+  display:block;
   padding-top: 18px;
   font-size: 13px;
   font-weight: 600;
