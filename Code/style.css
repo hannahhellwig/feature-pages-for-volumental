@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
   box-sizing: border-box;
 }
@@ -27,13 +27,13 @@ a {
   text-transform: none;
   line-height: 35px;
 }
-.footer-row {
+.footer-row {}
 
-=======
+
 .logo img
 {
   height: 45px;
   margin-top: 4px;
   margin-bottom: 4px;
->>>>>>> e572de208fd76be2beba2a8b69f4701a41bdc742
+
 }
