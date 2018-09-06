@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
   position: relative;
   min-height: 100%; }
@@ -24,6 +25,21 @@ a {
 
 a:hover {
     color: black; }
+=======
+
+* {
+  box-sizing: border-box;
+
+}
+
+body{
+    margin: 70px 55px 400px;
+}
+
+a {
+  color: black;
+}
+>>>>>>> master
 
 .logo img
 {
@@ -31,7 +47,88 @@ a:hover {
   height: 45px;
   margin-top: 4px;
   margin-bottom: 4px;
+
 }
+
+.hero-container{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.hero-image {
+  background-image: url("CI10 copy.jpg");
+  height: 690px;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
+
+}
+.hero-logo{
+  position: absolute;
+  left: 0;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+
+
+}
+
+.hero-logo img{
+width: 50%;
+
+}
+
+.info{
+
+}
+
+.left-side .inner{
+  background-color: lightblue;
+  padding: 20px;
+  margin: 20px;
+}
+
+.right-side .inner{
+background-color: pink;
+padding: 20px;
+margin: 20px;
+}
+
+.column{
+  float: left;
+  width: 50%;
+}
+
+.footer {
+  clear: both;
+   border-top: solid 1px black;
+   padding: 15px 0 0;
+   height: 225px;
+   bottom: 0px;
+   width: 100%;
+   font-size: 13px;
+   font-weight: 600;
+   letter-spacing: 2.8px;
+   font-family: 'lato', sans-serif;
+   text-align: center;
+   margin-left: -15px;
+   margin-right: -15px;
+}
+
+.footer a {
+  text-decoration: none;
+  margin: 0px 15px;
+  text-transform: none;
+  line-height: 35px;
+
+}
+<<<<<<< HEAD
 
 
 .header {
@@ -59,3 +156,6 @@ a:hover {
   margin-right: 6%;
   text-decoration: none;
 }
+=======
+.footer-row {}
+>>>>>>> master
