@@ -1,34 +1,16 @@
 
 * {
   box-sizing: border-box;
+
+}
+
+body{
+    margin: 70px 55px 400px;
 }
 
 a {
   color: black;
 }
-
-.footer {
-   border-top: solid 1px black;
-   padding: 15px 0 0;
-   height: 225px;
-   position: absolute;
-   bottom: 0px;
-   width: 100%;
-   font-size: 13px;
-   font-weight: 600;
-   letter-spacing: 2.8px;
-   font-family: 'lato', sans-serif;
-   text-align: center;
-}
-
-.footer a {
-  text-decoration: none;
-  margin: 0px 15px;
-  text-transform: none;
-  line-height: 35px;
-}
-.footer-row {}
-
 
 .logo img
 {
@@ -37,3 +19,53 @@ a {
   margin-bottom: 4px;
 
 }
+
+.hero-container{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.hero-image {
+  background-image: url("CI10 copy.jpg");
+  height: 690px;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
+
+}
+
+.hero-logo img{
+  width: 50%;
+  text-align: center;
+  position: absolute;
+}
+
+.footer {
+   border-top: solid 1px black;
+   padding: 15px 0 0;
+   height: 225px;
+   bottom: 0px;
+   width: 100%;
+   font-size: 13px;
+   font-weight: 600;
+   letter-spacing: 2.8px;
+   font-family: 'lato', sans-serif;
+   text-align: center;
+   margin-left: -15px;
+   margin-right: -15px;
+}
+
+.footer a {
+  text-decoration: none;
+  margin: 0px 15px;
+  text-transform: none;
+  line-height: 35px;
+
+}
+.footer-row {}
