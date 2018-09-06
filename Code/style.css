@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: black;
+}
+
+.footer {
+   border-top: solid 1px black;
+   padding: 15px 0 0;
+   height: 225px;
+   position: absolute;
+   bottom: 0px;
+   width: 100%;
+   font-size: 13px;
+   font-weight: 600;
+   letter-spacing: 2.8px;
+   font-family: 'lato', sans-serif;
+   text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  margin: 0px 15px;
+  text-transform: none;
+  line-height: 35px;
+}
+.footer-row {
+
+}
