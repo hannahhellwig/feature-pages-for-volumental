@@ -1,11 +1,13 @@
-<<<<<<< HEAD
-html {
+
+* {
+  box-sizing: border-box;
   position: relative;
-  min-height: 100%; }
+  min-height: 100%;
+}
 
 body {
   font-family: 'Lato', sans-serif;
-  margin: 70px 0px 400px; }
+  margin: 70px 55px 400px; }
 
 @media (min-width: 768px) {
   body {
@@ -25,29 +27,43 @@ a {
 
 a:hover {
     color: black; }
-=======
 
-* {
-  box-sizing: border-box;
 
-}
 
-body{
-    margin: 70px 55px 400px;
-}
-
-a {
-  color: black;
-}
->>>>>>> master
-
-.logo img
-{
+.logo img {
   display: block;
   height: 45px;
   margin-top: 4px;
   margin-bottom: 4px;
 
+}
+
+
+
+.header {
+  position: relative;
+  padding: 11px 0px 11px;
+  top: 0px;
+  left: 0px;
+  background: white;
+  padding: 11px 90px 11px;
+  width: 100%;
+  z-index: 1000;
+  width:95%;
+  display: inline-block;
+}
+
+.headermenu {
+  display:block;
+  padding-top: 18px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 2.8px;
+}
+
+.headermenu a {
+  margin-right: 6%;
+  text-decoration: none;
 }
 
 .hero-container{
@@ -69,6 +85,7 @@ a {
   margin-bottom: 50px;
 
 }
+
 .hero-logo{
   position: absolute;
   left: 0;
@@ -128,34 +145,6 @@ margin: 20px;
   line-height: 35px;
 
 }
-<<<<<<< HEAD
 
 
-.header {
-  position: fixed;
-  padding: 11px 0px 11px;
-  top: 0px;
-  left: 0px;
-  background: white;
-  padding: 11px 90px 11px;
-  width: 100%;
-  z-index: 1000;
-  width:95%;
-  display: inline-block;
-}
-
-.headermenu {
-  display:block;
-  padding-top: 18px;
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 2.8px;
-}
-
-.headermenu a {
-  margin-right: 6%;
-  text-decoration: none;
-}
-=======
 .footer-row {}
->>>>>>> master
