@@ -28,7 +28,6 @@ a:hover {
 }
 
 
-
 .header {
   position: relative;
   padding: 11px 0px 11px;
@@ -132,6 +131,17 @@ margin: 20px;
 .column{
   float: left;
   width: 50%;
+}
+
+
+.container{
+position: relative;
+float: left;
+display: block;
+}
+
+.container .box img{
+  width:33.33%;
 }
 
 .footer {
