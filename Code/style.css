@@ -18,8 +18,8 @@ body {
     width: 1130px; } }
 
 @media (min-width: 992px) {
-  .container {
-    width: 992px; } }
+  /* .container { */
+    /* width: 992px; } } */
 
 a {
   color: black;
@@ -53,17 +53,38 @@ a:hover {
   display: inline-block;
 }
 
-.headermenu {
-  display:block;
-  padding-top: 18px;
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 2.8px;
+/* .headermenu { */
+  /* display:block; */
+  /* padding-top: 18px; */
+  /* font-size: 13px; */
+  /* font-weight: 600; */
+  /* letter-spacing: 2.8px; */
+/* } */
+
+.header_menu {
+    padding-top: 18px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2.8px;
 }
 
-.headermenu a {
+.header_menu > a:last-of-type {
+    margin-right: 0;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.header_menu a {
   margin-right: 6%;
   text-decoration: none;
+
+}
+
+.header_menu > a:last-of-type {
+    margin-right: 0;
 }
 
 .hero-container{
