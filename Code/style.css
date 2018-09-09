@@ -11,15 +11,21 @@ body {
 
 @media (min-width: 768px) {
   body {
-    margin: 70px 55px 400px; } }
+    margin: 70px 55px 400px; }
+   }
 
-@media (min-width: 1200px) {
-  .container {
-    width: 1130px; } }
+}
 
 @media (min-width: 992px) {
   .container {
-    width: 992px; } }
+    width: 992px; }
+  }
+
+
+@media (min-width: 1200px) {
+      .container {
+        width: auto; }
+   }
 
 a {
   color: black;
@@ -28,54 +34,72 @@ a {
 a:hover {
     color: black; }
 
-
-
-.logo img {
-  display: block;
-  height: 45px;
-  margin-top: 4px;
-  margin-bottom: 4px;
-
+video {
+  width: 100%;
+  height: auto;
 }
 
-
-
 .header {
-  position: relative;
-  padding: 11px 0px 11px;
   top: 0px;
   left: 0px;
   background: white;
-  padding: 11px 90px 11px;
+  padding: 5px 45px 5px;
   width: 100%;
   z-index: 1000;
-  width:95%;
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 0;
+}
+
+.logo {
+height:auto;
+width:auto;
+margin-left: 0;
+order: -1;
+flex: 1;
+
+}
+
+.logo img {
+  height: 45px;
+  margin-top: 4px;
+  margin-bottom: 4px;
 }
 
 .headermenu {
-  display:block;
-  padding-top: 18px;
+  padding-top: 10px;
   font-size: 13px;
   font-weight: 600;
   letter-spacing: 2.8px;
+  background: #fff;
+  align-items: flex-end;
+
+
 }
 
 .headermenu a {
-  margin-right: 6%;
+  margin-right: 3%;
   text-decoration: none;
+  background: purple;
 }
 
+.item-7 {
+  order: 2;
+}
+
+
 .hero-container{
-  padding-right: 15px;
-  padding-left: 15px;
+  height: auto;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
   margin-right: auto;
   margin-left: auto;
 }
 
-.hero-image {
-  background-image: url("CI10 copy.jpg");
-  height: 690px;
+.hero-video {
   opacity: 1;
   overflow: hidden;
   position: relative;
