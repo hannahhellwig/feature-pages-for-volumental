@@ -1,12 +1,10 @@
 
+  /* Universal Stuff */
+
 * {
   box-sizing: border-box;
-<<<<<<< HEAD
   /* position: relative; */
-  min-height: 100%;
-=======
 
->>>>>>> Video_AsBackground
 }
 
 
@@ -16,18 +14,23 @@ body {
   overflow-x: hidden;
 }
 
-<<<<<<< HEAD
+
 a {
   color: black;
-  text-decoration: underline; }
-=======
+  text-decoration: underline;
+}
 
+
+a:hover {
+    color: black;
+   }
+
+  /* Video Header*/
 .v-header {
   height:100vh;
   display:flex;
   align-items:center;
   color: #fff;
-
 }
 
 .v-header container {
@@ -37,7 +40,6 @@ a {
   margin:auto;
   text-align: center;
 }
->>>>>>> Video_AsBackground
 
 .fullscreen_video_wrap {
   position:absolute;
@@ -84,15 +86,9 @@ a {
   color:#fff;
 }
 
-a {
-  color: black;
-  text-decoration: underline; }
 
-a:hover {
-    color: black; }
+  /* Navbar */
 
-<<<<<<< HEAD
-=======
 .navbar {
   overflow: hidden;
   background-color: #333;
@@ -103,7 +99,6 @@ a:hover {
   display: flex;
 }
 
->>>>>>> Video_AsBackground
 .header {
   top: 0px;
   left: 0px;
@@ -133,40 +128,7 @@ a:hover {
   margin-bottom: 4px;
 }
 
-<<<<<<< HEAD
-/* .headermenu { */
-  /* display:block; */
-  /* padding-top: 18px; */
-  /* font-size: 13px; */
-  /* font-weight: 600; */
-  /* letter-spacing: 2.8px; */
-/* } */
 
-.header_menu {
-    padding-top: 18px;
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: 2.8px;
-}
-
-.header_menu > a:last-of-type {
-    margin-right: 0;
-}
-
-.row {
-    margin-right: -15px;
-    margin-left: -15px;
-}
-
-.header_menu a {
-  margin-right: 6%;
-  text-decoration: none;
-
-}
-
-.header_menu > a:last-of-type {
-    margin-right: 0;
-=======
 .headermenu {
   padding-top: 10px;
   font-size: 13px;
@@ -188,9 +150,11 @@ a:hover {
 
 .item-7 {
   order: 2;
->>>>>>> Video_AsBackground
 }
 
+
+
+  /* Hero Section */
 .hero img {
       max-width: 100%;
       max-height: 100%;
@@ -239,13 +203,6 @@ width: 50%;
 
 }
 
-<<<<<<< HEAD
-/* .info{
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
-  color: #333;
-} */
 
 
 .container-grid{
@@ -261,39 +218,17 @@ width: 50%;
     float:left;
     width: 50%;
     height: 223px;
-
-  }
+}
 
 .box img{
   width: 100%;
   display:block;
   margin-left: auto;
   margin-right: auto;
-=======
-.info{
-padding-top: 150px;
->>>>>>> Video_AsBackground
-}
-
-@media (max-width: 600px) {
- .container-grid .box {
-    width: 100%;
-  }
-}
-
-@media (min-width: 600px) and (max-width: 900px) {
- .container-grid .box {
-    width: 50%;
-  }
-}
-
-@media (min-width: 900px) {
-  .container-grid .box{
-    width: 50%;
-  }
 }
 
 
+  /* Footer */
 .footer {
   clear: both;
    border-top: solid 1px black;
@@ -319,38 +254,8 @@ padding-top: 150px;
   color: #333;
 }
 
-  @media (min-width: 768px) {
-    body {
-      margin: 70px 55px 400px; } }
-
-  @media (min-width: 1200px) {
-    .container {
-      width: 1130px; } }
-
-<<<<<<< HEAD
-  @media (min-width: 992px) {
-    /* .container { */
-      /* width: 992px; } } */
-=======
 .footer-row {}
 
-  @media screen and (min-width: 1024px) {
-  /*
-    .desktop {display: inline-block;
-    }
-
-    .mobile {
-      display: none;
-    }
-
-    .tablet {
-      display: none;
-    } */
-
-    .Navbar__Link-toggle {
-  display: none;
-  }
-  }
   @media screen and (max-width: 1024px) {
 /*
     .desktop {display: inline-block;
@@ -396,7 +301,7 @@ padding-top: 150px;
       .headermenu {
         margin-left:0;
       }
-    }
+
     .container {
       padding-right: 3rem;
   padding-left: 3rem;
@@ -413,6 +318,7 @@ padding-top: 150px;
       display: block;
       padding-bottom: 2rem;
   }
+}
 
   @media screen and (max-width: 480px) {
     /* .desktop {
@@ -442,4 +348,35 @@ padding-top: 150px;
       c
 
   }
->>>>>>> Video_AsBackground
+}
+    /* @media (max-width: 600px) {
+   .container-grid .box {
+      width: 100%;
+    }
+  }
+
+  @media (min-width: 600px) and (max-width: 900px) {
+   .container-grid .box {
+      width: 50%;
+    }
+  }
+
+  @media (min-width: 900px) {
+    .container-grid .box{
+      width: 50%;
+    }
+  }
+
+
+    @media (min-width: 768px) {
+      body {
+        margin: 70px 55px 400px; } }
+
+    @media (min-width: 1200px) {
+      .container {
+        width: 1130px; } }
+
+  <<<<<<< HEAD
+    @media (min-width: 992px) {
+      /* .container { */
+        /* width: 992px; } } */
