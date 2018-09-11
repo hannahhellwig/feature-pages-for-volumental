@@ -33,7 +33,7 @@ a:hover {
   color: #fff;
 }
 
-.v-header container {
+.v-header .container {
   max-width: 960px;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -153,7 +153,6 @@ a:hover {
 }
 
 
-
   /* Hero Section */
 .hero img {
       max-width: 100%;
@@ -165,9 +164,6 @@ a:hover {
       position: absolute;
       z-index: 90;
 }
-  }
-
-
 
 .hero-container{
   height: auto;
@@ -188,25 +184,10 @@ a:hover {
   z-index: 6;
 }
 
-.hero-logo{
-  position: absolute;
-  left: 0;
-  top: 40%;
-  width: 100%;
-  text-align: center;
-
-
-}
-
-.hero-logo img{
-width: 50%;
-
-}
-
-
 
 .container-grid{
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
   height: auto;
   padding-right: 15px;
@@ -214,10 +195,8 @@ width: 50%;
 }
 
 .box{
-  position: relative;
     float:left;
     width: 50%;
-    height: 223px;
 }
 
 .box img{
@@ -253,8 +232,7 @@ width: 50%;
   line-height: 35px;
   color: #333;
 }
-
-.footer-row {}
+            /*media query*/
 
   @media screen and (min-width: 814px) {
 /*
@@ -292,7 +270,7 @@ width: 50%;
   align-items: flex-end;
 }
 
-      .Navbar headermenu {
+      .Navbar .headermenu {
         flex-direction: column;
       }
       .headermenu {
@@ -345,30 +323,31 @@ width: 50%;
       font-size: .75rem;
       display: block;
       padding-bottom: 2rem;
-      c
+
 
   }
 }
-    /* @media (max-width: 600px) {
+
+@media (max-width: 600px) {
+  .container-grid{
+    flex-direction: column;
+  }
+
    .container-grid .box {
       width: 100%;
     }
   }
 
-  @media (min-width: 600px) and (max-width: 900px) {
+  /* @media (min-width: 600px) {
    .container-grid .box {
       width: 50%;
     }
-  }
-
-  @media (min-width: 900px) {
-    .container-grid .box{
-      width: 50%;
-    }
-  }
+  } */
 
 
-    @media (min-width: 768px) {
+
+
+    /* @media (min-width: 768px) {
       body {
         margin: 70px 55px 400px; } }
 
@@ -377,6 +356,6 @@ width: 50%;
         width: 1130px; } }
 
   <<<<<<< HEAD
-    @media (min-width: 992px) {
+    @media (min-width: 992px) { */
       /* .container { */
         /* width: 992px; } } */
