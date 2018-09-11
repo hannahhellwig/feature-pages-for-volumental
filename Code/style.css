@@ -360,3 +360,23 @@ width: 50%;
 
   }
 }
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+     .Navbar__Link-toggle {
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .Navbar headermenu {
+    flex-direction: column;
+  }
+  .headermenu {
+    display:none;
+  }
+  .headermenu {
+    margin-left:0;
+  }
+}
