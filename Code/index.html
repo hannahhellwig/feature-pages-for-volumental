@@ -11,7 +11,14 @@
   <!--Video-Hero-->
 <header class="v-header container">
 <div class ="fullscreen_video_wrap">
-  <video autoplay loop playsinline muted src="video/fleetfeet_vid1.mp4" type="video/mp4">
+  <video class="desktop" autoplay loop playsinline muted>
+    <source src="video/FleetFeet_1280x720.mp4" type="video/mp4"/>
+  </video>
+  <video class="tablet" autoplay loop playsinline muted>
+    <source src="video/FleetFeet_640x480.mp4" type="video/mp4"/>
+  </video>
+  <video class="mobile" autoplay loop playsinline muted>
+    <source src="video/FleetFeet_640x480.mp4" type="video/mp4"/>
   </video>
 </div>
   <div class="header-overlay"></div>
