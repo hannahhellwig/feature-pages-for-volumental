@@ -4,9 +4,7 @@
 * {
   box-sizing: border-box;
   /* position: relative; */
-
 }
-
 
 body {
   font-family: 'Lato', sans-serif;
@@ -14,12 +12,10 @@ body {
   overflow-x: hidden;
 }
 
-
 a {
   color: black;
   text-decoration: underline;
 }
-
 
 a:hover {
     color: black;
@@ -201,6 +197,30 @@ a:hover {
 
 }
 
+#pixel-text {
+  margin-top: 70px;
+}
+#pixel-text h1{
+  text-align: right;
+  margin-top: 50px;
+}
+
+#pixel-text p{
+  text-align: right;
+  position: relative;
+  top:30px;
+}
+
+#pixel-box {
+ width: 20%;
+ margin-top: 70px;
+}
+
+.box-boarder {
+  border-top: solid 1px black;
+  width: 100%;
+}
+
 .box img{
   width: 100%;
   display:block;
@@ -216,10 +236,8 @@ a:hover {
 }
 
 .container-grid p {
-  font-family: 'Lato', sans-serif;
   font-size: 13px;
   font-weight: 300;
-  line-height: 26px;
   letter-spacing: 1.6px;
   line-height: 1.5;
   word-spacing: 5px;
@@ -228,12 +246,19 @@ a:hover {
   position: absolute;
   top: 50%;
   transform: translate(0, -50%)
+}
 
+.container-grid h1{
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 5px;
+  color: #333;
 }
 
 /* Contact section */
 
-.left-side .inner {
+/* .left-side .inner {
   text-align: right;
   top: 100px;
   padding: 20px;
@@ -254,7 +279,8 @@ a:hover {
   text-align: left;
   margin-left: auto;
   margin-right: auto;
-}
+} */
+
 
   /* Footer */
 .footer {
@@ -281,7 +307,17 @@ a:hover {
   line-height: 35px;
   color: #333;
 }
+
+.footer p {
+
+}
             /*media query*/
+
+  /* @media (min-width: 768px){
+    body {
+    margin: 70px 55px 400px;
+}
+} */
 
   @media screen and (min-width: 814px) {
 /*
