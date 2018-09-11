@@ -227,6 +227,27 @@ width: 50%;
   margin-right: auto;
 }
 
+/* Contact section */
+
+.left-side .inner {
+  text-align: right;
+  margin-top: 120px;
+  /* margin: 20px; */
+}
+
+.right-side .inner {
+  padding: 20px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.image img {
+  display: block;
+  text-align: left;
+}
 
   /* Footer */
 .footer {
