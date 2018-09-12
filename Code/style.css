@@ -251,39 +251,39 @@ width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
+
   /* Other Customers */
 
   .customers{
+    width:auto;
 
   }
-.customers-row{
-  width:100%;
+
+.customer-row{
 margin-left: auto;
 margin-right: auto;
-text-align: center;
-display: grid;
-grid-template-columns: repeat(auto-fill, 400px);
-grid-gap: 0px;
-justify-content: center;
-
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
 }
 
 .customer-card{
-
   padding-top: 10px;
-  width: 333px;
+  width: 100px;
   margin: 1.5%;
-  height: 500px;
-  display: inline-block;
+  height: 33%;
   background-color: white;
+  display: flex;
+  align-content: flex-end;
+  flex: auto;
 }
 
-.customers-card img{
-display: block;
+.customer-card img{
 max-width: 100%;
 max-height: 100%;
-width:90%;
-height:90%;
+width:100px;
+height:100px;
 
 }
 
