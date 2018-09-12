@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
 }
 
+
 a {
   color: black;
   text-decoration: underline;
@@ -19,6 +20,16 @@ a {
 
 a:hover {
     color: black;
+   }
+
+
+   p {
+       font-size: 13px;
+       font-weight: 300;
+       line-height: 26px;
+       letter-spacing: 1.6px;
+       line-height: 1.5;
+       word-spacing: 5px;
    }
 
   /* Video Header*/
