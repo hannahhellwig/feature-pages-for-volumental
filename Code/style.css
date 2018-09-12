@@ -180,6 +180,7 @@ a:hover {
   z-index: 6;
 }
 
+    /* grid */
 
 .container-grid{
   display: flex;
@@ -219,10 +220,13 @@ a:hover {
 .box-boarder {
   border-top: solid 1px black;
   width: 100%;
+  display: flex;
+
 }
 
 .box img{
   width: 100%;
+  height: 100%;
   display:block;
   margin-left: auto;
   margin-right: auto;
@@ -232,7 +236,7 @@ a:hover {
   margin-left:40px;
   margin-right: 40px;
   height: 100%;
-  position: relative
+  position: relative;
 }
 
 .container-grid p {
@@ -245,7 +249,7 @@ a:hover {
   margin: 0;
   position: absolute;
   top: 50%;
-  transform: translate(0, -50%)
+  transform: translate(0, -50%);
 }
 
 .container-grid h1{
@@ -357,7 +361,7 @@ a:hover {
   }
 }
 
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 600px) {
     /* .desktop {
       display: none;
     }
@@ -384,25 +388,47 @@ a:hover {
       padding-bottom: 2rem;
     }
 
-    .container-grid{
-      flex-direction: column;
+    .container-grid .text-box{
+        /* min-height: 500px; */
     }
-
-    .container-grid .box {
-      width: 100%;
-    }
-
 }
 
+@media screen and (max-width: 900px){
+  .container-grid{
+    flex-direction: column;
+  }
+  .container-grid .box{
+    width: 100%;
+  }
+ .container-grid .text-box{
+     min-height: 500px;
+ }
+  .item1{
+    order: 2;
+  }
+  .item2{
+    order: 1;
+  }
+  .item3{
+    order: 3;
+  }
+  .item4{
+    order: 4;
+  }
+  .item5{
+    order: 6;
+  }
+  .item6{
+    order: 5;
+  }
+  .box-boarder{
+    order: 7;
+  }
+  #pixel-box{
+    width: 40%;
+  }
 
-
-  /* @media (min-width: 600px) {
-   .container-grid .box {
-      width: 50%;
-    }
-  } */
-
-
+}
 
 
     /* @media (min-width: 768px) {
