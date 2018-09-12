@@ -8,14 +8,55 @@
 
 body {
   font-family: 'Lato', sans-serif;
+<<<<<<< HEAD
   margin: 70px 55px 400px; }
+=======
+  margin:0;
+  overflow-x: hidden;
+}
+>>>>>>> parent of b1eba34... paragraph css
 
 a {
   color: black;
   text-decoration: underline; }
 
 a:hover {
+<<<<<<< HEAD
     color: black; }
+=======
+    color: black;
+   }
+
+  /* Video Header*/
+.v-header {
+  height:100vh;
+  display:flex;
+  align-items:center;
+  color: #fff;
+}
+
+.v-header .container {
+  max-width: 960px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin:auto;
+  text-align: center;
+}
+
+.fullscreen_video_wrap {
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+}
+
+.fullscreen_video_wrap video {
+  min-width: 100vh;
+  min-height: 100vh;
+}
+>>>>>>> parent of b1eba34... paragraph css
 
 
 
