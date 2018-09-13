@@ -221,7 +221,6 @@ a:hover {
   border-top: solid 1px black;
   width: 100%;
   display: flex;
-
 }
 
 .box img{
@@ -264,7 +263,7 @@ a:hover {
 .footer {
   clear: both;
    border-top: solid 1px black;
-   padding: 50px 0 0;
+   padding: 15px 0px 0;
    height: 225px;
    bottom: 0px;
    width: 100%;
@@ -273,9 +272,8 @@ a:hover {
    letter-spacing: 2.8px;
    font-family: 'lato', sans-serif;
    text-align: center;
-   margin-left: -15px;
-   margin-right: -15px;
    color: #333;
+
 }
 
 .footer a {
@@ -286,9 +284,7 @@ a:hover {
   color: #333;
 }
 
-.footer p {
 
-}
             /*media query*/
 
   /* @media (min-width: 768px){
@@ -389,7 +385,22 @@ a:hover {
     }
 
     .container-grid .text-box{
-        /* min-height: 500px; */
+        min-height: 500px;
+    }
+
+    #pixel-text,
+    #pixel-box {
+      height: 200px;
+    }
+
+    .footer-row {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .footer{
+      padding-left: 15px;
+      padding-right: 15px;
     }
 }
 
@@ -400,9 +411,7 @@ a:hover {
   .container-grid .box{
     width: 100%;
   }
- .container-grid .text-box{
-     min-height: 500px;
- }
+
   .item1{
     order: 2;
   }
@@ -428,6 +437,12 @@ a:hover {
     width: 40%;
   }
 
+}
+
+@media screen and (min-width:600px) and (max-width: 900px) {
+  .container-grid .text-box{
+      min-height: 200px;
+    }
 }
 
 
