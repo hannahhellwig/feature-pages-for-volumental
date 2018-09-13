@@ -195,26 +195,6 @@ a:hover {
     float:left;
     width: 50%;
     margin-bottom: 50px;
-
-}
-
-#pixel-text {
-  margin-top: 100px;
-}
-#pixel-text h1{
-  text-align: right;
-  margin-top: 50px;
-}
-
-#pixel-text p{
-  text-align: right;
-  position: relative;
-  top:30px;
-}
-
-#pixel-box {
- width: 20%;
- margin-top: 70px;
 }
 
 .box-boarder {
@@ -257,6 +237,25 @@ a:hover {
   line-height: 30px;
   letter-spacing: 5px;
   color: #333;
+}
+
+#pixel-text {
+  margin-top: 100px;
+}
+#pixel-text h1{
+  text-align: right;
+  margin-top: 50px;
+}
+
+#pixel-text p{
+  text-align: right;
+  position: relative;
+  top:30px;
+}
+
+#pixel-box {
+ width: 20%;
+ margin-top: 70px;
 }
 
   /* Footer */
