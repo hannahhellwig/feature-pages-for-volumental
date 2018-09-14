@@ -311,34 +311,23 @@ display: flex;
 margin-left: auto;
 margin-right: auto;
 display: flex;
+justify-content:space-between;
+align-items: center;
 flex-direction: row;
-justify-content: space-between;
-flex-wrap: nowrap;
-align-items: center;
-justify-content: space-between;
-align-items: center;
 }
 
-.customer-card{
-  padding-top: 10px;
-  width: auto;
-  margin: 1.5%;
-  /* height: 100%; */
-  background-color: white;
-  display: flex;
-  align-content: flex-end;
-}
 
-.customer-card img{
+.customer-card {
   width: 100%;
   height: auto;
   padding: 0px;
   margin: 0px;
   background-position: center;
   background-repeat: no-repeat;
-  position: relative;
+  position:relative;
   overflow: hidden;
 }
+
 
   /* Contact Pixel */
 
@@ -360,6 +349,21 @@ align-items: center;
  width: 20%;
  margin-top: 70px;
 }
+
+.text-block {
+    position:absolute;
+    bottom: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    z-index: 10;
+}
+
+
+
+
+
 
   /* Footer */
 .footer {
@@ -427,6 +431,44 @@ align-items: center;
       z-index: 1;
       opacity:0.8;
       }
+
+}
+
+@media screen and (max-width: 900px) {
+
+  .customer-row{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  flex-direction: column;
+  }
+
+  .customer-card {
+    width: 50vw;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position:relative;
+    overflow: hidden;
+  }
+
+  .text-block {
+      position:absolute;
+      bottom: 20px;
+      background-color: black;
+      color: white;
+      padding-left: 20px;
+      padding-right: 20px;
+      z-index: 10;
+  }
+
+}
+  @media screen and (max-width: 813px) {
+
 
 
     .mobile {display: none;}
