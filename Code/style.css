@@ -299,6 +299,37 @@ transform: translateX(20%);
   transform: translate(0, -50%);
 }
 
+/* Contact Pixel */
+
+  #pixel-text {
+  margin-top: 100px;
+  }
+  #pixel-text h1{
+  text-align: right;
+  margin-top: 50px;
+  }
+
+  #pixel-text p{
+  text-align: right;
+  position: relative;
+  top:30px;
+  }
+
+  #pixel-box {
+  width: 20%;
+  margin-top: 70px;
+  }
+
+.text-block {
+  position:absolute;
+  bottom: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  z-index: 10;
+}
+
   /* Other Customers */
 
 .customers{
@@ -329,43 +360,6 @@ flex-direction: row;
   position:relative;
   overflow: hidden;
 }
-
-
-  /* Contact Pixel */
-
-#pixel-text {
-  margin-top: 100px;
-}
-#pixel-text h1{
-  text-align: right;
-  margin-top: 50px;
-}
-
-#pixel-text p{
-  text-align: right;
-  position: relative;
-  top:30px;
-}
-
-#pixel-box {
- width: 20%;
- margin-top: 70px;
-}
-
-.text-block {
-    position:absolute;
-    bottom: 20px;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    z-index: 10;
-}
-
-
-
-
-
 
   /* Footer */
 .footer {
